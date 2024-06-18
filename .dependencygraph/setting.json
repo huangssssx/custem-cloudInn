@@ -1,0 +1,7 @@
+{
+  "resolveExtensions": [
+    "tsx"
+  ],
+  "alias": {},
+  "entryFilePath": "/src/app/listing/[listingId]/ListingClient.tsx"
+}
