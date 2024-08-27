@@ -14,8 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-If you are interested in the development process ，please view :http://alaya.zone:1080/category/nextjs/airbnb/
+1. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. If you are interested in the development process ，please view :http://alaya.zone:1080/category/nextjs/airbnb/
+4. airbnb websit url：https://custem-cloud-inn.vercel.app/
